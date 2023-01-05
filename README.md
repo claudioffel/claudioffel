@@ -4,7 +4,7 @@
 - 🔭 Em busca de emprego/estágio na área de programação
 - 💬 Cursando desenvolvimento de sistemas no SENAI e estou estudando com cursos de front end por fora
 
-<div align="center">
+<div>
   <a href="https://github.com/claudioffel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudioffel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudioffel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
