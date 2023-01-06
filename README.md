@@ -1,4 +1,7 @@
 ### Olá! Eu sou o Cláudio Felipe 🖥💡
+
+Engenheiro de produção formado e estudante de desenvolvimento de sistemas pelo SENAI (2/3). Estou focado na área de front end e sou um apaixonado por tecnologia, inovação e por novos desafios.
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A1udio-felipe-fonseca-da-silva-08a503189/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/claudioffel/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](claudio.kay75@gmail.com)
