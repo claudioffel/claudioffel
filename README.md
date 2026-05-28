@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Cláudio Felipe 🖥💡
 
-Engenheiro de Produção, Técnico em Desenvolvimento de Sistemas e Pós-graduado em Análise de Dados. Minha atuação é para a área de dados, desenvolvendo projetos envolvendo análise de dados, ETL e automação de procedimentos, unindo visão de negócio, tecnologia e melhoria de processos.
+Engenheiro de Produção, técnico em desenvolvimento de sistemas e pós-graduado em análise de dados. Minha atuação é para a área de dados, desenvolvendo projetos envolvendo análise de dados, ETL e automação de procedimentos, unindo visão de negócio, tecnologia e melhoria de processos.
 
 ### - Contato
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A1udio-felipe-fonseca-da-silva-08a503189/)
